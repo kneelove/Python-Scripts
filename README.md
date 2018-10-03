@@ -1,2 +1,2 @@
 # Python-Scripts
-some utility python scripts 
+some python scripts 
