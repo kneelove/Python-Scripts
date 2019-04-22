@@ -1,2 +1,2 @@
 # Python-Scripts
-1) Linked Information fetching using selenium
+1) LinkedIn information fetching using selenium
