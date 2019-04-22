@@ -1,2 +1,2 @@
 # Python-Scripts
-some python scripts 
+1) Linked Information fetching using selenium
